@@ -1,0 +1,24 @@
+*{
+   margin:0px;
+   left-margin:10px;
+}
+.form{
+    float:left;
+}
+.form_class label{
+    margin:10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.form_class label:hover{
+   font-family:cursive;
+}
+.form_class button{
+     border-style:none;
+     background-color:#3498DB;
+     text-decoration:none;
+}
+.form_class button:hover{
+     background:transparent;
+     color:red;
+     font-family:cursive;
+}
